@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "vista_pjsip"
+  s.name         = "pjsip"
   s.version      = "2.8.0"
   s.summary      = "Open Source SIP, Media and NAT Traversal Library."
   s.homepage     = "http://www.pjsip.org"
